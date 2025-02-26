@@ -1,7 +1,7 @@
 {
-  "id": "storyteller-addon-singlesheet",
-  "title": "Storyteller addon singlesheet",
-  "description": "This addon module for StoryTeller adds a collection of single page journal entry styles.",
+  "id": "storyteller2-addon-singlesheet",
+  "title": "Storyteller 2 addon singlesheet",
+  "description": "This addon module for StoryTeller2 adds a collection of single page journal entry styles.",
   "authors": [
     {
       "name": "Benjaneer",
@@ -16,11 +16,11 @@
   "relationships": {
     "requires": [
       {
-        "id": "storyteller",
+        "id": "storyteller2",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/Xbozon/storyteller/main/module.json",
+        "manifest": "https://raw.githubusercontent.com/ulf75/storyteller2/main/module.json",
         "compatibility": {
-          "verified": "1.1.0"
+          "verified": "2.0.2"
         }
       }
     ]
